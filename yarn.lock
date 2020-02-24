@@ -1013,12 +1013,12 @@
     rxjs "6.5.3"
     webpack-sources "1.4.3"
 
-"@nrwl/cli@9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@nrwl/cli/-/cli-9.0.1.tgz#02494c813dedc3599cbf72f139a379a9d2c6fabd"
-  integrity sha512-FMNTiJbXnHrxd5J+JuwP5z2k/Suf4RFT7/1n7FAEdwz7E30dm3pDRoM3r2M08E+ySWQMz7VdV88GRAVhKwn+9g==
+"@nrwl/cli@9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@nrwl/cli/-/cli-9.0.2.tgz#782081ece5d4b50b1a7eebdb2243457a36ed07f3"
+  integrity sha512-cGThsB+KBK09ARlgY59ga8I7urUJtSjcalT8V8Wsf2iPOgfRExlC+J1tyta+Ccrd0cZ7cBQT3cgN/3ekQazqtw==
   dependencies:
-    "@nrwl/tao" "9.0.1"
+    "@nrwl/tao" "9.0.2"
     chalk "2.4.2"
     tmp "0.0.33"
     yargs "^11.0.0"
@@ -1072,10 +1072,10 @@
     eslint-plugin-react-hooks "^2.3.0"
     url-loader "^2.2.0"
 
-"@nrwl/tao@9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-9.0.1.tgz#169b0a15bf5fb44fa43a2e503e9d5afd2e481283"
-  integrity sha512-16l5eREyv6AUqmK6zSPuXJ8ipEEYvtlwYf2mTfW9RzsTJcTjAflkOk3J/vgnoYHNR7MH6ePVkGs7+1Jsl9QDcQ==
+"@nrwl/tao@9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-9.0.2.tgz#4dbcddd4e03babac46286de39323f04dc3fc7f79"
+  integrity sha512-O5BStHj9S0RoIlyYSK93s1QCGq+jGOxmDJc1FsvIRrEoJhvbg77ekEn4OXL4q5bOoqYuinBclGkOlNFCiBcK1w==
   dependencies:
     "@angular-devkit/architect" "~0.900.1"
     "@angular-devkit/core" "~9.0.1"
@@ -1177,14 +1177,14 @@
     webpack-subresource-integrity "1.1.0-rc.6"
     worker-plugin "3.2.0"
 
-"@nrwl/workspace@9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-9.0.1.tgz#144465448465fd77f1038f6a430d1bb7c9c2992e"
-  integrity sha512-vgd9c258GBmlWm/VaidqO5V/WgpvVZoFkHBTKuCUW3GmzuyDSffIQouBnMpUza306d8SZFJlQq9kVNrW/6JfFA==
+"@nrwl/workspace@9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-9.0.2.tgz#3f83aa14c4bf1d9c5b9b633c334c3ee559f6b7d3"
+  integrity sha512-sqtY9fdsYbPJHri8jvCh9QVxZVOUtEN+ockgGFOo4eOXcAGIajZKdnc+qohcvMJSl32XBOlUlgfgXSB8apgHPg==
   dependencies:
     "@angular-devkit/core" "~9.0.1"
     "@angular-devkit/schematics" "~9.0.1"
-    "@nrwl/cli" "9.0.1"
+    "@nrwl/cli" "9.0.2"
     chalk "2.4.2"
     cosmiconfig "4.0.0"
     fs-extra "6.0.0"
