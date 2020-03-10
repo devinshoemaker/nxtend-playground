@@ -1199,10 +1199,10 @@
     yargs "^11.0.0"
     yargs-parser "10.0.0"
 
-"@nxtend/ionic-react@1.0.0-rc.1":
-  version "1.0.0-rc.1"
-  resolved "https://registry.yarnpkg.com/@nxtend/ionic-react/-/ionic-react-1.0.0-rc.1.tgz#aaaff409173615a745679f1731ae8df2e892cf58"
-  integrity sha512-D3SxT0Nj03aGd0oPs29dJSNxjlr4MZhm+cHXJdz5pxn06ai3B2pbNlkqLnPwAkG1EQd+Axi/ECYoBjcJwRUs4A==
+"@nxtend/ionic-react@1.0.0":
+  version "1.0.0"
+  resolved "http://localhost:4873/@nxtend%2fionic-react/-/ionic-react-1.0.0.tgz#35d4d1f4f5e96c751a1cdd813ba546b96fab8e5d"
+  integrity sha512-qw16uQDU8GUbRjpvDCwNRvVrhkTX7W8mIxNOZV2ll/zKIFLQQLCa6b8ZbZbUy8fwud5ZuYCWqOoUpHGzC3SjBQ==
   dependencies:
     "@nrwl/react" "*"
 
