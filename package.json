@@ -28,6 +28,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "@nrwl/react": "9.3.0",
     "@nrwl/workspace": "9.3.0",
     "@nxtend/ionic-react": "2.0.0",
     "@types/node": "~8.9.4",
