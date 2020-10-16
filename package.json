@@ -26,16 +26,24 @@
     "help": "nx help"
   },
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@ionic/react": "5.3.2",
+    "ionicons": "5.1.2"
+  },
   "devDependencies": {
     "@nrwl/cli": "10.3.0",
+    "@nrwl/react": "10.3.0",
     "@nrwl/workspace": "10.3.0",
+    "@nxtend/capacitor": "1.1.0",
+    "@nxtend/ionic-react": "3.1.0",
+    "@testing-library/jest-dom": "5.11.4",
+    "@testing-library/user-event": "12.1.5",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
+    "eslint": "7.10.0",
+    "prettier": "2.0.4",
     "ts-node": "~7.0.0",
     "tslint": "~6.0.0",
-    "eslint": "7.10.0",
-    "typescript": "~4.0.3",
-    "prettier": "2.0.4"
+    "typescript": "~4.0.3"
   }
 }
