@@ -1,18 +1,11 @@
 {
   "migrations": [
     {
-      "version": "4.0.0",
-      "description": "Update libraries",
-      "factory": "./src/migrations/update-4-0-0/update-4-0-0",
-      "package": "@nxtend/ionic-react",
-      "name": "update-4.0.0"
-    },
-    {
-      "version": "4.0.0",
-      "description": "Add Ionic config to Ionic React applications",
-      "factory": "./src/migrations/update-4-0-0/add-ionic-config-4-0-0",
-      "package": "@nxtend/ionic-react",
-      "name": "add-ionic-config-4.0.0"
+      "version": "2.0.0-beta.1",
+      "description": "update-2.0.0",
+      "factory": "./src/migrations/update-2-0-0/update-2-0-0",
+      "package": "@nxtend/capacitor",
+      "name": "update-2.0.0"
     }
   ]
 }

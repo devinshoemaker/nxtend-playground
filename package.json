@@ -37,7 +37,7 @@
     "@nrwl/react": "10.4.4",
     "@nrwl/tao": "10.4.4",
     "@nrwl/workspace": "10.4.4",
-    "@nxtend/capacitor": "1.1.0",
+    "@nxtend/capacitor": "2.0.2",
     "@nxtend/ionic-angular": "1.0.0",
     "@nxtend/ionic-react": "4.1.0",
     "@testing-library/jest-dom": "5.11.4",
