@@ -39,7 +39,7 @@
     "@nrwl/workspace": "10.4.4",
     "@nxtend/capacitor": "1.1.0",
     "@nxtend/ionic-angular": "1.0.0",
-    "@nxtend/ionic-react": "3.1.0",
+    "@nxtend/ionic-react": "4.1.0",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/user-event": "12.1.5",
     "@types/node": "~8.9.4",

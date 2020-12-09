@@ -1536,10 +1536,10 @@
   resolved "https://registry.yarnpkg.com/@nxtend/ionic-angular/-/ionic-angular-1.0.0.tgz#557044eb4403b2af95d8ba5fb81a634e4566764a"
   integrity sha512-pGEU7QNOYoC4b1Pr8sCjln8zY0AlrjxhOngzKUT1SFDmHn8byFzCiTcCrjg4S96IA+9L+CiWnM8as3jpY7XaFw==
 
-"@nxtend/ionic-react@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@nxtend/ionic-react/-/ionic-react-3.1.0.tgz#5a31bef3fd18dacdb27080e080236a7afdb219c8"
-  integrity sha512-WGm1+XApMI7SEDNYvPA8hY5+uvEeTlEo5CeDAdn+UhTgIVfgUY0z4bZWkgGIdZ5BAHVLhMIxIB8lvKO1LB7QPg==
+"@nxtend/ionic-react@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@nxtend/ionic-react/-/ionic-react-4.1.0.tgz#39d2280a65a4775c42e671188875f71658d176de"
+  integrity sha512-x8MqcX6MHTHNtHUyGTaYAlbpkEhALdO4d456JDV1QYFYULcK91BDYrrcf4NAdqavlyiQ2LcLXD/dCteuNNrGdQ==
 
 "@rollup/plugin-babel@5.0.2":
   version "5.0.2"
