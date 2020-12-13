@@ -21,9 +21,9 @@
     "format:write": "nx format:write",
     "format:check": "nx format:check",
     "update": "nx migrate latest",
-    "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
-    "help": "nx help"
+    "help": "nx help",
+    "workspace-generator": "nx workspace-generator"
   },
   "private": true,
   "dependencies": {
@@ -32,17 +32,17 @@
     "ionicons": "5.1.2"
   },
   "devDependencies": {
-    "@nrwl/angular": "10.4.4",
-    "@nrwl/cli": "10.3.0",
-    "@nrwl/react": "10.4.4",
-    "@nrwl/tao": "10.4.4",
-    "@nrwl/workspace": "10.4.4",
+    "@nrwl/angular": "11.0.2",
+    "@nrwl/cli": "11.0.2",
+    "@nrwl/react": "11.0.2",
+    "@nrwl/tao": "11.0.2",
+    "@nrwl/workspace": "11.0.2",
     "@nxtend/capacitor": "2.0.2",
     "@nxtend/ionic-angular": "1.0.0",
     "@nxtend/ionic-react": "4.1.0",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/user-event": "12.1.5",
-    "@types/node": "~8.9.4",
+    "@types/node": "12.12.38",
     "dotenv": "6.2.0",
     "eslint": "7.10.0",
     "prettier": "2.1.2",
